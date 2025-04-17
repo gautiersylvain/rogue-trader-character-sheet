@@ -1,10 +1,10 @@
 import portrait from '../../assets/images/portrait cropped.png'
 
 export let characterInfo = {
-    name: "Cool Hat Sr.",
-    fullname: "Divisional Commissar of the Officio Prefectus",
+    name: "Pandora",
+    fullname: "Pandora von Valancius af Korianis",
     level: 55,
-    health: "133/133",
+    health: "214/214",
     image: portrait,
 }
 
