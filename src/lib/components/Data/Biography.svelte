@@ -5,8 +5,11 @@
 
 </script>
 
-<h3>Early days</h3>
-<p>Rogue Trader Cool Hat von Valancius Sr., also known by his title, Divisional Commissar of the Officio Prefectus, spent most of his childhood being raised by the Schola Progenium after the unfortunate demise of both of his parents, in faithful service of the God-Emperor of Mankind.</p>
+<h3>Early Life</h3>
+<p>Rogue Trader Pandora Von Valancius was born on the planet of Meridian, a hive world in the Korianis System. She was transported to Holy Terra following the manifestation of her psyker abilites. The Lord Captain reports no surviving family members.</p>
+
+<h3>Sanctioning</h3>
+<Classified></Classified>
 
 <LongDivider></LongDivider>
 <h3>What else to write in this section?</h3>
