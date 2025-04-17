@@ -50,7 +50,6 @@ export const RelationsData:Array<Relation> = [
         accordionOpen: true,
         quote: `Let the blood of the wicked be shed, as thou hast willed!`,
         body: ``,
-        classified: true,
         pic: kibellah,
     },
     {
@@ -58,7 +57,6 @@ export const RelationsData:Array<Relation> = [
         accordionOpen: true,
         quote: `Is this a job for the serfs?`,
         body: ``,
-        classified: true,
         pic: cassia,
     },
     {
@@ -72,7 +70,6 @@ export const RelationsData:Array<Relation> = [
         name:"Interrogator Heinrix van Calox",
         accordionOpen: true,
         quote: `Not sanctioned to do that!`,
-        classified: true,
         pic: heinrix,
     },
     {
@@ -80,7 +77,6 @@ export const RelationsData:Array<Relation> = [
         accordionOpen: true,
         quote: `The battlefield air is good for my lungs!`,
         body: ``,
-        classified: true,
         pic: jae,
     },
     {
@@ -88,7 +84,6 @@ export const RelationsData:Array<Relation> = [
         accordionOpen: true,
         quote: `I'm not your Xenos pet, Mon'Keigh!`,
         body: ``,
-        classified: true,
         pic: yrliet,
     },
     {
@@ -96,6 +91,7 @@ export const RelationsData:Array<Relation> = [
         accordionOpen: true,
         quote: `*madman laugh*`,
         body: ``,
+        classified: true,
         pic: marazhai,
     },
     {
@@ -103,7 +99,6 @@ export const RelationsData:Array<Relation> = [
         accordionOpen: true,
         quote: `*intelligible wolf noises*`,
         body: ``,
-        classified: true,
         pic: ulfar,
     },
     {
@@ -118,7 +113,6 @@ export const RelationsData:Array<Relation> = [
         quote: ``,
         body: ``,
         accordionOpen: true,
-        classified: true,
         pic: calligos,
     },
     // {
