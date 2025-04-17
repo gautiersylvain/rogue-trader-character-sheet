@@ -35,6 +35,7 @@ export const RelationsData:Array<Relation> = [
         accordionOpen: true,
         quote: "All right, let's hear what they're whispering about you, hmm?",
         body: ``,
+        classified: false,
         pic: idira,
     },
     {
