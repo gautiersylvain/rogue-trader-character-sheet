@@ -25,14 +25,14 @@ interface Conviction {
 // START EDITING BELOW ⤵ //
 export const basicData: BasicData = {
     homeworld: "Hive World",
-    origin: "Commissar",
-    triumph: "Apex of Brilliance",
+    origin: "Sanctioned Psyker",
+    triumph: "Illustrious Glory",
     darkestHour: "Shadow of Torment"
 }
 
 export const convictionData: Conviction = {
-    dogmatic: 5,
-    iconoclast: 1,
+    dogmatic: 1,
+    iconoclast: 5,
     heretical: 0,
 }
 
