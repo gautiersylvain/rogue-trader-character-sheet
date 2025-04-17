@@ -11,6 +11,9 @@
 <h3>Sanctioning</h3>
 <Classified></Classified>
 
+<h3>Astra Militarum</h3>
+<p>After completing her training under the Scholastica Psykana, Pandora entered the ranks of the Astra Militarum to begin training as a Primaris Psyker. She served in the Imperial Navy for just over 7 years and was stationed primarily in the Calixis Sector. It was during this time that the Lord Captain first came into the public eye when she single-handedly saved a pilgrim ship by stopping a warp breach.</p>
+
 <LongDivider></LongDivider>
 <h3>What else to write in this section?</h3>
     
