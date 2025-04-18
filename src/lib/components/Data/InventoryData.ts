@@ -41,8 +41,8 @@ export const InventoryData:Array<InventoryItem> = [
     },
     {
         label: "accessory 2",
-        item: "None",
-        itemDesc: '20/20 visions will suffice for now.'
+        item: "Heart of the Nameless",
+        itemDesc: "This item increases the wielder's Lore (Xenos) by +10. If the wearer has Iconoclast — Adherent, it increases all skills by +10 instead."
     },
     {
         label: "cape",
