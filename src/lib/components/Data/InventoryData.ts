@@ -12,8 +12,8 @@ export const InventoryData:Array<InventoryItem> = [
     },
     {
         label: "armour",
-        item: 'Commissar Jacket',
-        itemDesc: 'The law of cool and good taste triumphs all.'
+        item: 'Psychic Bodyglove',
+        itemDesc: "The wearer ignores the first critical hit damage in combat. Base armour property: +(3x psy rating)% dodge if the wearer's Willpower is more than 40."
     },
     {
         label: "accessory 1",
