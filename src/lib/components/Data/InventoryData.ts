@@ -6,19 +6,19 @@ itemDesc: String,
 
 export const InventoryData:Array<InventoryItem> = [
     {
-        label: "Headwear",
+        label: "headwear",
         item: 'Commissar Hat',
         itemDesc: `A commissar without his signature hat is like an angel without wings.`
-    },
-    {
-        label: "ring",
-        item: "Signet ring",
-        itemDesc: 'A signet ring with the coat-of-arms of house Von Valancius.'
     },
     {
         label: "armour",
         item: 'Commissar Jacket',
         itemDesc: 'The law of cool and good taste triumphs all.'
+    },
+    {
+        label: "accessory 1",
+        item: "black signet of the inquisition",
+        itemDesc: 'A signet ring with the coat-of-arms of house Von Valancius.'
     },
     {
         label: "weapon slot 1",
@@ -35,12 +35,12 @@ export const InventoryData:Array<InventoryItem> = [
         itemDesc: '[Screeching Xenos noises]'
     },
     {
-        label: "Head",
+        label: "amulet",
         item: "Hair",
         itemDesc: `<p>What else do you expect to be on there?</p>`
     },
     {
-        label: "eyewear",
+        label: "accessory 2",
         item: "None",
         itemDesc: '20/20 visions will suffice for now.'
     },
