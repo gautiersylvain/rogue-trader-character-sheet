@@ -11,14 +11,14 @@ export const InventoryData:Array<InventoryItem> = [
         itemDesc: `A commissar without his signature hat is like an angel without wings.`
     },
     {
-        label: "armour",
-        item: 'Commissar Jacket',
-        itemDesc: 'The law of cool and good taste triumphs all.'
-    },
-    {
         label: "ring",
         item: "Signet ring",
         itemDesc: 'A signet ring with the coat-of-arms of house Von Valancius.'
+    },
+    {
+        label: "armour",
+        item: 'Commissar Jacket',
+        itemDesc: 'The law of cool and good taste triumphs all.'
     },
     {
         label: "weapon slot 1",
