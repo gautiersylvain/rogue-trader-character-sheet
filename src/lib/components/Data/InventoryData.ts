@@ -45,6 +45,11 @@ export const InventoryData:Array<InventoryItem> = [
         itemDesc: "This item increases the wielder's Lore (Xenos) by +10. If the wearer has Iconoclast — Adherent, it increases all skills by +10 instead."
     },
     {
+        label: "gloves",
+        item: "Commander's Gloves",
+        itemDesc: "At the end of the turn, the wearer gains stacks of tactical advantage equal to the number of enemies they hit during their turn."
+    },
+    {
         label: "cloak",
         item: "Mantle of Heroism",
         itemDesc: "Requires Iconoclast -- Follower. Each heroic act used in battle increases the wearer's dodge by +20% until the end of combat (max 60%)."
@@ -53,10 +58,5 @@ export const InventoryData:Array<InventoryItem> = [
         label: "footwear",
         item: "Psyker's Footwear",
         itemDesc: "These boots grant their wearer +3% dodge until the end of combat for each psy power they use. Stacks."
-    },
-    {
-        label: "consumables",
-        item: "medkits & grenades",
-        itemDesc: 'placeholder',
     },
 ];
