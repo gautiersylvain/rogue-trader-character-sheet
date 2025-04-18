@@ -45,9 +45,9 @@ export const InventoryData:Array<InventoryItem> = [
         itemDesc: "This item increases the wielder's Lore (Xenos) by +10. If the wearer has Iconoclast — Adherent, it increases all skills by +10 instead."
     },
     {
-        label: "cape",
-        item: "None",
-        itemDesc: 'In the word of renowned Imperium Combat Attire Specialist Ednax "E" Modicus: NO CAPES!!!!!'
+        label: "cloak",
+        item: "Mantle of Heroism",
+        itemDesc: "Requires Iconoclast -- Follower. Each heroic act used in battle increases the wearer's dodge by +20% until the end of combat (max 60%)."
     },
     {
         label: "footwear",
