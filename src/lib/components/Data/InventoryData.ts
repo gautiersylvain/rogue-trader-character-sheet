@@ -51,8 +51,8 @@ export const InventoryData:Array<InventoryItem> = [
     },
     {
         label: "footwear",
-        item: "Boots of dubious origin",
-        itemDesc: 'These boots are made for walking and stomping out enemies of humanity.'
+        item: "Psyker's Footwear",
+        itemDesc: "These boots grant their wearer +3% dodge until the end of combat for each psy power they use. Stacks."
     },
     {
         label: "consumables",
