@@ -4,15 +4,15 @@ export let characterInfo = {
     name: "Pandora",
     fullname: "Pandora von Valancius af Korianis",
     level: 55,
-    health: "214/214",
+    health: "153/153",
     image: portrait,
 }
 
 export let combatInfo = {
     deflection: 1,
-    armour: "40%",
-    dodge: "112%",
-    dodgeReduction: 33,
-    parry: 52,
-    resolve: 11,
+    armour: "50%",
+    dodge: "124%",
+    dodgeReduction: 30,
+    parry: 95,
+    resolve: 19,
 }
