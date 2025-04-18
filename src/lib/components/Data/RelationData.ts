@@ -90,7 +90,7 @@ export const RelationsData:Array<Relation> = [
     {
         name:"Drukhari Dracon Marazhai Aezyrraesh",
         accordionOpen: false,
-        quote: `*madman laugh*`,
+        quote: `I will say this only once, Pandora: you are the reason for all my misfortunes, but you are also the reason why I survived - despite the fury of all Commorragh and the wrath of the Black Heart. Consider this confession an expression of my gratitude.`,
         body: ``,
         classified: true,
         pic: marazhai,
