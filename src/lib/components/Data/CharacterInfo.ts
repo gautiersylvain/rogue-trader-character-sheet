@@ -13,6 +13,6 @@ export let combatInfo = {
     armour: "50%",
     dodge: "124%",
     dodgeReduction: 30,
-    parry: 95,
+    parry: "95%",
     resolve: 19,
 }
