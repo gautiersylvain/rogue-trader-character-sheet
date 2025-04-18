@@ -48,7 +48,7 @@
     </div>
 </Accordion>
 <Accordion open={TalentsData.talentTwoOpen}>
-	<span slot="head">Archetype talents: Assassin</span>
+	<span slot="head">Archetype talents: Master Tactician</span>
 	<div slot="details" class="abilityContainer">
         {#if TalentsData.archetypeTalentTwo.length > 0}
             {#each TalentsData.archetypeTalentTwo as talent}
@@ -64,7 +64,7 @@
     </div>
 </Accordion>
 <Accordion open={TalentsData.talentOneOpen}>
-	<span slot="head">Archetype talents: Operative</span>
+	<span slot="head">Archetype talents: Officer</span>
 	<div slot="details" class="abilityContainer">
         {#if TalentsData.archetypeTalentOne.length > 0}
             {#each TalentsData.archetypeTalentOne as talent}
