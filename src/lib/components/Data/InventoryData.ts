@@ -37,7 +37,7 @@ export const InventoryData:Array<InventoryItem> = [
     {
         label: "amulet",
         item: "Starmist Scarf",
-        itemDesc: "If the wearer is not wearing any armour, at the start of combat, they gain XX% dodge. The wearer's psy rating is increased by +2."
+        itemDesc: "If the wearer is not wearing any armour, at the start of combat, they gain additional dodge percentage. The wearer's psy rating is increased by +2."
     },
     {
         label: "accessory 2",
