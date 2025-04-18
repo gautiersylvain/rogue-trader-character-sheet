@@ -54,4 +54,9 @@ export const InventoryData:Array<InventoryItem> = [
         item: "Boots of dubious origin",
         itemDesc: 'These boots are made for walking and stomping out enemies of humanity.'
     },
+    {
+        label: "consumables",
+        item: "medkits",
+        itemDesc: 'placeholder',
+    },
 ];
