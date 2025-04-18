@@ -18,7 +18,7 @@ export const InventoryData:Array<InventoryItem> = [
     {
         label: "accessory 1",
         item: "black signet of the inquisition",
-        itemDesc: 'A signet ring with the coat-of-arms of house Von Valancius.'
+        itemDesc: "The wearer gains +40 Persuasion and the Inquisitor's Tenet ability that can be used once per combat."
     },
     {
         label: "weapon slot 1",
