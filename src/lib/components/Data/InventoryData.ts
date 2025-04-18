@@ -7,8 +7,8 @@ itemDesc: String,
 export const InventoryData:Array<InventoryItem> = [
     {
         label: "headwear",
-        item: 'Commissar Hat',
-        itemDesc: `A commissar without his signature hat is like an angel without wings.`
+        item: 'Ghost Helm',
+        itemDesc: `The wearer uses Willpower for dodge tests instead of Agility. Whenever the wearer dodges an attack, they gain +1 psy rating until the end of their next turn. Stacks.`
     },
     {
         label: "armour",
