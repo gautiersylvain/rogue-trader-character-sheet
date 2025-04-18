@@ -56,7 +56,7 @@ export const InventoryData:Array<InventoryItem> = [
     },
     {
         label: "consumables",
-        item: "medkits",
+        item: "medkits & grenades",
         itemDesc: 'placeholder',
     },
 ];
