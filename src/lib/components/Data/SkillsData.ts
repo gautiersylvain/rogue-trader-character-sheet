@@ -10,75 +10,79 @@ export const skillsData:Skills[] = [
     {
         shorthand: "STR",
         name: "Athletic",
-        value: 99,
+        value: 40,
+        bonus: 10,
     },
     {
         shorthand: "PER",
         name: "Awareness",
-        value: 99,
-        bonus: 7,
+        value: 62,
+        bonus: 17,
     },
     {
         shorthand: "TGH",
         name: "Carouse",
-        value: 99,
-        bonus: -2
+        value: 63,
+        bonus: 13,
     },
     {
         shorthand: "FEL",
         name: "Coercion",
-        value: 99,
-        bonus: 15
-    },
-    {
-        shorthand: "INT",
-        name: "Commerce",
-        value: 99,
+        value: 125,
         bonus: 20,
     },
     {
-        shorthand: "PER",
+        shorthand: "FEL",
+        name: "Commerce",
+        value: 115,
+        bonus: 10,
+    },
+    {
+        shorthand: "AGI",
         name: "Demolition",
-        value: 99
+        value: 50,
+        bonus: 10,
     },
     {
         shorthand: "INT",
         name: "Logic",
-        value: 99,
-        bonus: 20,
+        value: 47,
+        bonus: 17,
     },
     {
         shorthand: "INT",
         name: "Lore (Imperium)",
-        value: 99,
-        bonus: 35
+        value: 55,
+        bonus: 25
     },
     {
         shorthand: "INT",
-        name: "Lore (Wrap)",
-        value: 99,
-        bonus: 7
+        name: "Lore (Warp)",
+        value: 90,
+        bonus: 5,
     },
     {
         shorthand: "INT",
         name: "Lore (Xenos)",
-        value: 99,
+        value: 50,
         bonus: 20,
     },
     {
         shorthand: "INT",
         name: "Medicae",
-        value: 99,
+        value: 45,
+        bonus: 10,
     },
     {
         shorthand: "FEL",
         name: "Persuasion",
-        value: 99,
-        bonus: 40
+        value: 160,
+        bonus: 55,
     },
     {
         shorthand: "INT",
         name: "Tech-Use",
-        value: 99,
+        value: 50,
+        bonus: 20,
     },
 ]
