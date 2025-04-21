@@ -39,15 +39,6 @@ export const convictionData: Conviction = {
 
 export const HistoryData: Array<historyEntry> = [
     {
-        entry: `A list of stuff that your character has done in game.`,
-    },
-    {
-        entry: `Or even before the events of the game, for lorebuilding purposes.`,
-    },
-    {
-        entry: `Works the same as the "History" section seen in game!`,
-    },
-    {
         entry: `Led the people out of the fire trap, refusing "Theodora's" help.`,
         conviction: ConvictionType.iconoclast,
         convictionChanges: 15
