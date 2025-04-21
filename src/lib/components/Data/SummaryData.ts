@@ -48,18 +48,18 @@ export const HistoryData: Array<historyEntry> = [
         entry: `Works the same as the "History" section seen in game!`,
     },
     {
-        entry: `Exterminatus!`,
-        conviction: ConvictionType.dogmatic,
-        convictionChanges: 99
+        entry: `Led the people out of the fire trap, refusing "Theodora's" help.`,
+        conviction: ConvictionType.iconoclast,
+        convictionChanges: 15
     },
     {
-        entry: `Acquired THE Cool Hat™`,
-        conviction: ConvictionType.dogmatic,
-        convictionChanges: 99
+        entry: `Ordered that the defective servitors be destroyed in order to end their suffering.`,
+        conviction: ConvictionType.iconoclast,
+        convictionChanges: 3
     },
     {
-        entry: `"Lady Cassia, the hat stays on during [entry redacted]"`,
+        entry: `Destroyed Rykad Minoris with an orbital strike.`,
         conviction: ConvictionType.dogmatic,
-        convictionChanges: 99
+        convictionChanges: 15
     }
 ]
