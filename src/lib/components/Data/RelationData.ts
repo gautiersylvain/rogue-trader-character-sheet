@@ -69,7 +69,7 @@ export const RelationsData:Array<Relation> = [
     {
         name:"Interrogator Heinrix van Calox",
         accordionOpen: false,
-        quote: `Not sanctioned to do that!`,
+        quote: `I am a heretic, Pandora. It is strange to say and even stranger hear...but that is my decision. No more sacrifices in the name of the Imperium. I have paid my debt to the Golden Throne - now I serve you.`,
         body: '<p>test</p>',
         pic: heinrix,
     },
