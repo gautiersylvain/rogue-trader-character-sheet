@@ -31,7 +31,7 @@ export const basicData: BasicData = {
 }
 
 export const convictionData: Conviction = {
-    dogmatic: 1,
+    dogmatic: 2,
     iconoclast: 5,
     heretical: 0,
 }
